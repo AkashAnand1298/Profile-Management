@@ -47,6 +47,6 @@ public class Alumni extends Person
     }
     
     public void setCurrentResidingPlace(String currentResidingPlace) {
-        this.currentResidingPlace = currentResidingPlace;
+        thiis.currentResidingPlace = currentResidingPlace;
     }
 }
