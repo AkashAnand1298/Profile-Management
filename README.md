@@ -12,7 +12,7 @@
 
 ➤ **Verison 1.1 :** This version will be storing the data given by the user. Using the concepts of File I/O.
 
-➤ **Version 1.2 :** This version will be using the concept of DBMS[Date Base Management System].
+➤ **Version 1.2 :** This version will be using DBMS[Date Base Management System].
 
 ➤ **Version 1.3 :** This version is going to be an Android App.
 
